@@ -4,7 +4,11 @@ Turn any PDF into a book you can flip through, right in your browser. It's a sin
 
 ## Use it
 
-Open `pdf-flipbook.html` in a browser (Chrome, Edge, Safari, Firefox), then tap **Open PDF** or drag a PDF onto the page. The first visit needs an internet connection to load the PDF engine from a CDN.
+**Online:** https://enef.github.io/Book-Reader/ (works on phones too; on iPhone, use Share → Add to Home Screen to open it like an app).
+
+**Offline copy:** download `pdf-flipbook.html` and open it in a browser (Chrome, Edge, Safari, Firefox).
+
+Then tap **Open PDF** or drag a PDF onto the page. The first visit needs an internet connection to load the PDF engine from a CDN.
 
 ## Features
 
